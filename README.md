@@ -50,7 +50,7 @@ Building skills in Python for automation, threat detection, and data parsing. Fo
 |                             |`System Hacking`|[LINK](https://github.com/codelassey/vsftpd-backdoor-exploit)|
 |                             | - |LINK|
 
-## Certifications
+## Certs & Certifications
 ![(ISC)² CC](https://img.shields.io/badge/ISC2%20CC-In%20Progress-yellow?logo=isc2&style=for-the-badge)
 ![Cisco CyberOps Associate](https://img.shields.io/badge/Cisco%20CyberOps%20Associate-In%20Progress-yellow?logo=cisco&style=for-the-badge)
 ![Ethical Hacker (Cisco)](https://img.shields.io/badge/Ethical%20Hacker%20(Cisco)-Completed-orange?logo=cisco&style=for-the-badge)

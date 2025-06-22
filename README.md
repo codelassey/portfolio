@@ -11,6 +11,9 @@ My long-term vision is to become a versatile Cybersecurity Analyst, specializing
 > - ## Ethical Hacking & Penetration Testing
 Identifying weaknesses like unpatched software or insecure credentials through ethical simulations thereby enabling organizations to remediate risks proactively, bolstering defenses against unauthorized access and reducing the likelihood of successful cyberattacks.
 
+> - ## Network Security & Monitoring
+Securing network environments and monitoring network traffic to identify vulnerabilities, enforce robust configurations and ensure the prevention of unauthorized access and data interception thereby maintaining reliable and secure communication channels that protect organizational assets from network-based threats.
 
+> - ##
 
 

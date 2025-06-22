@@ -28,6 +28,24 @@ Building skills in Python for automation, threat detection, and data parsing. Fo
 |**SCOPE**           | **SKILL**        | **LAB/PROJECT**| 
 |----------------|-------------------------|-------------|
 |**Ethical Hacking & Penetration Testing**| `SQL Injection` / `Exploiting Web Server directory indexing Vulnerablilities` / `Exploiting open SMB Server shares exposing weak share permissions` |[LINK](https://github.com/codelassey/cybersecurity-projects/tree/main/Ethical%20Hacking%20Project)|
-|                                     | - | |
-|                                      | - | |
-
+|                                     | `Password Cracking on Open Source System` | [LINK](https://github.com/codelassey/open-source-password-cracking) |
+|                                      |`Analyze Exploit Code`|LINK|
+|**Network Security & Monitoring** | `Intercepting Network Traffic With Ettercap` / `Network Sniffing With Wireshark` / `Network Monitoring & Attack Detection`|[LINK](https://github.com/codelassey/network-attack-monitoring)|
+|                                   | `WiFi Hacking` |[LINK](https://github.com/codelassey/wifi-hacking)|
+|                                  | `Packet Crafting With Scapy` |LINK|
+|**OSNIT & Threat Intelligence** |`Using OSNIT tools`| LINK |
+|                                |`Cross Site Scripting`| LINK |
+|                               | - | |
+|**Web App Testing & Vulnerability Assessment** | `Website Hacking - Accessing Admin Panel` |[LINK](https://github.com/codelassey/admin-panel-sql-injection)|
+|                                               | `CCTV System Hacking` | [LINK](https://github.com/codelassey/cctv-hacking)|
+|                                               | - ||
+|**Scripting & Automation** | `Automation with Bash` |[LINK](https://github.com/codelassey/scripts-and-tools)|
+|**Crytography**| `Encrypting and Decrypting Data Using OpenSSL`|LINK|
+|               | `Using Steganography To Hide Data` |LINK|
+|               | - |                                 ||
+|**Incident Response & Digital Forensics**| `Classifying Alerts`|LINK|
+|                                         | `Autopsy Forensic Analysis`|LINK|
+|                                         | `Incident Handling`|LINK|
+|**Endpoint & Cloud Security**| `Hardenining a Linux System`|LINK|
+|                             |`System Hacking`|[LINK](https://github.com/codelassey/vsftpd-backdoor-exploit)|
+|                             | - |LINK|

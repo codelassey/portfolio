@@ -9,11 +9,25 @@ My long-term vision is to become a versatile Cybersecurity Analyst, specializing
 
 # SKILLS AND ABILITIES
 > - ## Ethical Hacking & Penetration Testing
-Identifying weaknesses like unpatched software or insecure credentials through ethical simulations thereby enabling organizations to remediate risks proactively, bolstering defenses against unauthorized access and reducing the likelihood of successful cyberattacks.
+Identifying weaknesses like unpatched software or insecure credentials through ethical simulations with tools like Metasploit and Hashcat thereby enabling organizations to remediate risks proactively, bolstering defenses against unauthorized access and reducing the likelihood of successful cyberattacks.
 
 > - ## Network Security & Monitoring
-Securing network environments and monitoring network traffic to identify vulnerabilities, enforce robust configurations and ensure the prevention of unauthorized access and data interception thereby maintaining reliable and secure communication channels that protect organizational assets from network-based threats.
+Securing network environments and monitoring network traffic using tools like Nmap and Wireshark to identify vulnerabilities, enforce robust configurations and ensure the prevention of unauthorized access and data interception thereby maintaining reliable and secure communication channels that protect organizational assets from network-based threats.
 
-> - ##
+> - ## OSNIT & Threat Intelligence
+Gathering intelligence and analyzing compromised systems using tools like Recon-ng, SpiderFoot and Shodan to profile threat actors and uncover attack origins thereby delivering actionable insights for organizations to proactively defend against future incidents and mitigate risks.
 
+> - ## Web App Testing & Vulnerability Assessment
+Identifying and ddressing critical vulnerabilities in web apps using tools like SQLmap and BurpSuit to reduce the risk of data breaches and enhancing user trust.
+
+> - ## Scripting & Automation
+Building skills in Python for automation, threat detection, and data parsing. Fortran for scientific  data analysis and meteorological applications, and Bash scripting for Linux automation to enhance cybersecurity workflows. 
+
+# PROJECTS AND LABS
+
+|**SCOPE**           | **SKILL**        | **LAB/PROJECT**| 
+|----------------|-------------------------|-------------|
+|**Ethical Hacking & Penetration Testing**| `SQL Injection` / `Exploiting Web Server directory indexing Vulnerablilities` / `Exploiting open SMB Server shares exposing weak share permissions` |[LINK](https://github.com/codelassey/cybersecurity-projects/tree/main/Ethical%20Hacking%20Project)|
+|                                     | - | |
+|                                      | - | |
 

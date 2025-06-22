@@ -50,14 +50,14 @@ Building skills in Python for automation, threat detection, and data parsing. Fo
 |                             |`System Hacking`|[LINK](https://github.com/codelassey/vsftpd-backdoor-exploit)|
 |                             | - |LINK|
 
-## Certs & Certifications
+## CERTIFICATIONS & CERTS
 ![(ISC)² CC](https://img.shields.io/badge/ISC2%20CC-In%20Progress-yellow?logo=isc2&style=for-the-badge)
 ![Cisco CyberOps Associate](https://img.shields.io/badge/Cisco%20CyberOps%20Associate-In%20Progress-yellow?logo=cisco&style=for-the-badge)
 ![Ethical Hacker (Cisco)](https://img.shields.io/badge/Ethical%20Hacker%20(Cisco)-Completed-orange?logo=cisco&style=for-the-badge)
 ![Junior Cybersecurity Analyst Career Path(Instructor-Led)](https://img.shields.io/badge/Junior%20Cybersecurity%20Analyst%20Career%20Path%20(Cisco)-Completed-blue?logo=cisco&style=for-the-badge)
 ![Cisco Introduction to Cybersecurity](https://img.shields.io/badge/Cisco%20Introduction%20to%20Cybersecurity-Completed-green?logo=cisco&style=for-the-badge)
 
-## Tools
+## TOOLS
 ![OWASP](https://img.shields.io/badge/OWASP-OSINT%20Framework-green?logo=owasp&style=for-the-badge)
 ![Hashcat](https://img.shields.io/badge/Hashcat-Password%20Cracking-orange?logo=terminal&style=for-the-badge)
 ![Metasploit](https://img.shields.io/badge/Metasploit-Penetration%20Testing-purple?logo=metasploit&style=for-the-badge)
@@ -72,4 +72,5 @@ Building skills in Python for automation, threat detection, and data parsing. Fo
 ![Python](https://img.shields.io/badge/Python-Scripting%20&%20Automation-yellow?logo=python&style=for-the-badge)
 ![Bash](https://img.shields.io/badge/Bash-Scripting%20Automation-green?logo=terminal&style=for-the-badge)
 
-
+## CONTACT 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/prince-lassey-b90b80197/)

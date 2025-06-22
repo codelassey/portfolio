@@ -56,11 +56,3 @@ Building skills in Python for automation, threat detection, and data parsing. Fo
 ![Ethical Hacker (Cisco)](https://img.shields.io/badge/Ethical%20Hacker%20(Cisco)-Completed-orange?logo=cisco&style=for-the-badge)
 ![Junior Cybersecurity Analyst Career Path(Instructor-Led)](https://img.shields.io/badge/Junior%20Cybersecurity%20Analyst%20Career%20Path%20(Cisco)-Completed-blue?logo=cisco&style=for-the-badge)
 ![Cisco Introduction to Cybersecurity](https://img.shields.io/badge/Cisco%20Introduction%20to%20Cybersecurity-Completed-green?logo=cisco&style=for-the-badge)
-
-
-  - **Currently in progress, focusing on cybersecurity operations and incident response skills.**
-
-- ![ISC2 CC](https://img.shields.io/badge/ISC2%20CC-In%20Progress-gold?logo=security&style=for-the-badge)
-  - **Currently in progress, aimed at developing foundational cybersecurity certification from ISC2.**
-
-

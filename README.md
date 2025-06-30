@@ -34,7 +34,7 @@ Building skills in Python for automation, threat detection, and data parsing. Fo
 |                                   | `WiFi Hacking` |[LINK](https://github.com/codelassey/wifi-hacking)|
 |                                  | `Packet Crafting With Scapy` |LINK|
 |**OSNIT & Threat Intelligence** |`Using OSNIT tools`| LINK |
-|                                |`Cross Site Scripting`| LINK |
+|                                |`Cross Site Scripting`| [LINK](https://github.com/codelassey/cybersecurity-labs/blob/main/Exploiting%20Application-Based%20Vulnerabilities/cross_site_scripting.md) |
 |                               | - | |
 |**Web App Testing & Vulnerability Assessment** | `Website Hacking - Accessing Admin Panel` |[LINK](https://github.com/codelassey/admin-panel-sql-injection)|
 |                                               | `CCTV System Hacking` | [LINK](https://github.com/codelassey/cctv-hacking)|

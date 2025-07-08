@@ -53,9 +53,9 @@ Building skills in Python for automation, threat detection, and data parsing. Fo
 ## CERTIFICATIONS & CERTS
 ![(ISC)² CC](https://img.shields.io/badge/ISC2%20CC-In%20Progress-yellow?logo=isc2&style=for-the-badge)
 ![Cisco CyberOps Associate](https://img.shields.io/badge/Cisco%20CyberOps%20Associate-In%20Progress-yellow?logo=cisco&style=for-the-badge)
-![Ethical Hacker (Cisco)](https://img.shields.io/badge/Ethical%20Hacker%20(Cisco)-Completed-orange?logo=cisco&style=for-the-badge)
-![Junior Cybersecurity Analyst Career Path(Instructor-Led)](https://img.shields.io/badge/Junior%20Cybersecurity%20Analyst%20Career%20Path%20(Cisco)-Completed-blue?logo=cisco&style=for-the-badge)
-![Cisco Introduction to Cybersecurity](https://img.shields.io/badge/Cisco%20Introduction%20to%20Cybersecurity-Completed-green?logo=cisco&style=for-the-badge)
+![Ethical Hacker (Cisco)](https://img.shields.io/badge/Ethical%20Hacker%20(Cisco)-Completed-deepgreen?logo=cisco&style=for-the-badge)
+![Junior Cybersecurity Analyst Career Path(Instructor-Led)](https://img.shields.io/badge/Junior%20Cybersecurity%20Analyst%20Career%20Path%20(Cisco)-Completed-deepgreen?logo=cisco&style=for-the-badge)
+![Cisco Introduction to Cybersecurity](https://img.shields.io/badge/Cisco%20Introduction%20to%20Cybersecurity-Completed-deepgreen?logo=cisco&style=for-the-badge)
 
 ## TOOLS
 ![OWASP](https://img.shields.io/badge/OWASP-OSINT%20Framework-green?logo=owasp&style=for-the-badge)
@@ -66,6 +66,7 @@ Building skills in Python for automation, threat detection, and data parsing. Fo
 ![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analysis-blue?logo=wireshark&style=for-the-badge)
 ![Scapy](https://img.shields.io/badge/Scapy-Packet%20Crafting-orange?logo=scipy&style=for-the-badge)
 ![Shodan](https://img.shields.io/badge/Shodan-OSINT%20Search-red?logo=shodan&style=for-the-badge)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-OSINT%20Search-blue?logo=virustotal&style=for-the-badge)
 ![SpiderFoot](https://img.shields.io/badge/SpiderFoot-OSINT%20Automation-orange?logo=spiderfoot&style=for-the-badge)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Web%20Testing-lightblue?logo=burp-suite&style=for-the-badge)
 ![Nikto](https://img.shields.io/badge/Nikto-Web%20Scanning-red?logo=tools&style=for-the-badge)

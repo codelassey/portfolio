@@ -51,8 +51,8 @@ Building skills in Python for automation, threat detection, and data parsing. Fo
 |                             | - |LINK|
 
 ## CERTIFICATIONS & CERTS
-![(ISC)² CC](https://img.shields.io/badge/ISC2%20CC-In%20Progress-yellow?logo=isc2&style=for-the-badge)
 ![Cisco CyberOps Associate](https://img.shields.io/badge/Cisco%20CyberOps%20Associate-In%20Progress-yellow?logo=cisco&style=for-the-badge)
+![(ISC)² CC](https://img.shields.io/badge/ISC2%20CC-Completed-deepgreen?logo=isc2&style=for-the-badge)
 ![Ethical Hacker (Cisco)](https://img.shields.io/badge/Ethical%20Hacker%20(Cisco)-Completed-deepgreen?logo=cisco&style=for-the-badge)
 ![Junior Cybersecurity Analyst Career Path(Instructor-Led)](https://img.shields.io/badge/Junior%20Cybersecurity%20Analyst%20Career%20Path%20(Cisco)-Completed-deepgreen?logo=cisco&style=for-the-badge)
 ![Cisco Introduction to Cybersecurity](https://img.shields.io/badge/Cisco%20Introduction%20to%20Cybersecurity-Completed-deepgreen?logo=cisco&style=for-the-badge)
